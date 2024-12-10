@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.btn {
+  padding: 5px;
+  cursor: pointer;
+}

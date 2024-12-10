@@ -1,0 +1,20 @@
+.list {
+  display: flex;
+  gap: 15px;
+  list-style: none;
+  padding: 0;
+}
+
+.list li {
+  margin-right: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.activeLink {
+  color: blue;
+  font-weight: bold;
+}
